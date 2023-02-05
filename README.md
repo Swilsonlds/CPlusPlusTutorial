@@ -1,5 +1,8 @@
+
 # Overview
 The purpose of this project was to familiarize myself with the language of C++ by creating a tutorial that covers the basic concepts and principles of the language.
+
+NOTE: Please start at the "welcome.md" file, and navigate through the modules in order by using the links at the bottom of each module.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
