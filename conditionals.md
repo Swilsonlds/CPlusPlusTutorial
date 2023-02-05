@@ -21,6 +21,7 @@ Conditionals are statements that ensure that a block of code is executed only wh
 | \|\|         | Or                |
 | !            | Not               |
 <br>
+
 ## `if` Statement
 As stated above, an if statement will execute a block of code only if a particular condition is met. We write an `if` statement using the following structure...
 ```C++
